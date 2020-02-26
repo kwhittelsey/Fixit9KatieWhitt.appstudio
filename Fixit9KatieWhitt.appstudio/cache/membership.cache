@@ -1,0 +1,10 @@
+let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
+
+btnSubmitMember.onclick=function(){
+var i = members.indexOf(inptFirstName.value)
+   if (i > -1)
+       ChangeForm(confirmation)
+  else
+    NSB.MsgBox("You are not a member. Please try again.")
+    inptFirstName.value = ""
+}
