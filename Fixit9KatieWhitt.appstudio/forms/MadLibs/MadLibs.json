@@ -25,25 +25,7 @@
         "forms",
         "MadLibs",
         "Elements",
-        "btnRest.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "MadLibs",
-        "Elements",
         "inptNoun1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "MadLibs",
-        "Elements",
-        "inptNoun2.json"
       ]
     },
     {
@@ -61,7 +43,7 @@
         "forms",
         "MadLibs",
         "Elements",
-        "inptVerb.json"
+        "inptNoun4.json"
       ]
     },
     {
@@ -70,7 +52,115 @@
         "forms",
         "MadLibs",
         "Elements",
-        "inptAdjective.json"
+        "inptNoun5.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptNoun2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptVerb1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptVerb2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptVerb3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptVerb4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptVerb5.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptAdj1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptAdj2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptAdj3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptAdj4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "inptAdj5.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLibs",
+        "Elements",
+        "lblMad.json"
       ]
     }
   ],
